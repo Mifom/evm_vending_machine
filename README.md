@@ -18,4 +18,4 @@ WIP
 
 # License
 
-Can be found (here)[./LICENSE]
+Can be found [here](./LICENSE).
