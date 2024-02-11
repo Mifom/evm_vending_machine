@@ -14,7 +14,10 @@ Owner of the machine can refill it with items.
 
 # Deployment
 
-WIP
+Deployed via Remix IDE
+![image](https://github.com/Mifom/evm_vending_machine/assets/23462908/1a8a22ac-f6dd-4f25-9858-d6f97bedead2)
+
+Contract Id: `0xDC789E9c300390802c0e5E6fF4E94ca6cE1e987d`
 
 # License
 
